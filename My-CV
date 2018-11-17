@@ -1,0 +1,47 @@
+# moi
+<! DOCTYPE html>
+<html>
+<head>
+<title> my web page </title>
+<style>
+h1 {
+color:white;
+text-align:center;
+}
+h3 {
+color: yellow; 
+}
+</style>
+</head>
+<body BGcolor=gray;>
+
+
+ <h1> CV </h1> 
+ <h3> *Name : Ghada Salah Mahdi. </br><br> 
+*Date of birth : 13 / 7/ 1999.<br> <br>
+*city : Baghdad.<br> <br>
+*Phone number : 64890987.<br> <br>
+*Email Address : ghada1999799@gmail.com.<br> <br>
+*University / Collage : Al Nahrain University / Collage of Information Engineering / Network Department. <br> <br>
+*Year of graduation : 2017/2018.<br> <br>
+*Known languages : English - Italian. <br>  <br> 
+
+<ul>
+<ol> *Known programming languages : <br>
+<li> java </li>
+<li> C++ </li>
+<li> C </li>
+</ol> <br> <br>
+<ol> *Known web programming languages :  <br>
+<li> Html5 </li>
+<li> CSS </li>
+<li> javaScribt </li>
+</ol> <br> <br>
+<ol> *got degrees : <br> 
+<li> CCNA </li>
+<li> CCNP </li>
+</ol> <br> <br>
+</ul>
+</h3>
+</body>
+</html>
